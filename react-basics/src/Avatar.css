@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+.avatarstyle {
+    width: 210px;
+    height: 350px;
+    background-color: #2fb4a4 ;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+
